@@ -1,0 +1,7 @@
+SKU,Parent,Author,Brand,Gender,Closure,Model,Type,Colour,Country_Manu,Upper_Mat,Lining_Mat,Insole_Mat,Heel_Height,Weight,Height,Length,Depth,PurchaseOrder,Label,Finalise,submit,csrf_token,Sizes
+13,Parent,Test,Adidas,Female,test,132,Basketball,Black,Afghanistan,Leather,test,test,1,1,1,1,1,1,test,False,True,,
+13_1,13,Test,Adidas,Female,test,132,Basketball,Black,Afghanistan,Leather,test,test,1,1,1,1,1,1,test,False,True,,1.0
+13,Parent,Test,Adidas,Female,test,132,Basketball,Black,Afghanistan,Leather,test,test,1,1,1,1,1,1,test,False,True,,
+13_1,13,Test,Adidas,Female,test,132,Basketball,Black,Afghanistan,Leather,test,test,1,1,1,1,1,1,test,False,True,,1.0
+13,Parent,Test,Adidas,Female,test,132,Basketball,Black,Afghanistan,Leather,test,test,1,1,1,1,1,1,test,True,True,,
+13_1,13,Test,Adidas,Female,test,132,Basketball,Black,Afghanistan,Leather,test,test,1,1,1,1,1,1,test,True,True,,1.0
